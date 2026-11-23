@@ -1,6 +1,11 @@
 {
   "servers": [
     {
+      "name": "MyServer",
+      "address": "https://anisette-v3-server-19n9.onrender.com",
+      "kind": 0
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io",
       "kind": 0
